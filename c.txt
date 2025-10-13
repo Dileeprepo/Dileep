@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-develop
-=======
-Hello from conflict-demo branch 
-
->>>>>>> conflict-demo
+Samsung
